@@ -1,0 +1,5 @@
+[iconicfont]
+------------
+**CDN** https://cdn.iconmonstr.com/1.3.0/css/iconmonstr-iconic-font.min.css
+
+[iconicfont]:https://iconmonstr.com/iconicfont/
